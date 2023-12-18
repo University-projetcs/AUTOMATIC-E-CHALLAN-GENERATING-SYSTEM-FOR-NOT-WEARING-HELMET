@@ -1,0 +1,7 @@
+numpy
+imutils
+pytesseract
+tensorflow
+keras
+smtplib
+tkinter
